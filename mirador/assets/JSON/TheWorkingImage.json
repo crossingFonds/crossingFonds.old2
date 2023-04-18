@@ -34,7 +34,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://crossingFonds.github.io/assets/Photos/TheWorkingImage_24.jpg",
+                "@id": "https://crossingfonds.github.io/mirador/assets/Photos/TheWorkingImage_24.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,
@@ -58,7 +58,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://crossingFonds.github.io/assets/Photos/TheWorkingImage_02.tif",
+                "@id": "https://crossingfonds.github.io/mirador/assets/Photos/TheWorkingImage_02.tif",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,

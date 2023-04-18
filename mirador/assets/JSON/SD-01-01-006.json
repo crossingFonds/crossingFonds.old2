@@ -20,7 +20,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://crossingfonds.github.io/assets/Photos/SD-01-01-0066.jpg",
+                "@id": "https://crossingfonds.github.io/mirador/assets/Photos/SD-01-01-0066.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpg",
                 "height": 1500,

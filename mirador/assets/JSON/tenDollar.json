@@ -8,7 +8,7 @@
     ]
   },
   "thumbnail": {
-      "id": "https://crossingfonds.github.io/assets/Thumbnails/tenDollar.png",
+      "id": "https://crossingfonds.github.io/mirador/assets/Thumbnails/tenDollar.png",
       "type": "Image",
       "width": 320,
       "height": 240
@@ -30,7 +30,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://crossingfonds.github.io/assets/Video/tenDollars.mp4",
+                "id": "https://crossingfonds.github.io/mirador/assets/Video/tenDollars.mp4",
                 "type": "Video",
                 "height": 360,
                 "width": 480,
